@@ -1,69 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T06:16:07.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GLAtZmZzHJ6Zfioc25of" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T08:58:41.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="chntM-pAbjbCcJ0B7sMP" version="24.2.5" type="github">
   <diagram name="第 1 页" id="PdAB5ZB_6jmW01q6IYg7">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="As-TOEln8H3yBprOKTnp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-1" target="As-TOEln8H3yBprOKTnp-2">
+        <mxCell id="As-TOEln8H3yBprOKTnp-22" value="&lt;p style=&quot;margin-left:0.0000pt;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;&lt;br/&gt;mso-char-indent-count:0.0000;text-align:justify;text-justify:inter-ideograph;&lt;br/&gt;mso-list:l0 level1 lfo1;&quot; align=&quot;justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;实验资源操作&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;mso-ascii-font-family:&#39;Times New Roman&#39;;&lt;br/&gt;mso-hansi-font-family:&#39;Times New Roman&#39;;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="-16.87" width="65" height="538.75" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-24" target="As-TOEln8H3yBprOKTnp-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="150" width="140" height="60" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-24" value="点击添加按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="110" height="51.88" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-2" target="As-TOEln8H3yBprOKTnp-4">
+        <mxCell id="As-TOEln8H3yBprOKTnp-26" value="添加课程资源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="110" height="51.88" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-23" target="As-TOEln8H3yBprOKTnp-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-30" value="点击删除按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="299" width="110" height="51.88" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.508;exitY=0.736;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="252" as="sourcePoint" />
+            <mxPoint x="237" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-33" target="As-TOEln8H3yBprOKTnp-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-2" value="点击发布实验按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275.71" y="250" width="128.57" height="60" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-33" value="是否删除该课程资源" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="162" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-4" target="As-TOEln8H3yBprOKTnp-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="380" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="435" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-4" value="选择截止日期时间" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275.71" y="340" width="128.57" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-7" target="As-TOEln8H3yBprOKTnp-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-14" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="As-TOEln8H3yBprOKTnp-9">
-          <mxGeometry x="0.0234" y="2" relative="1" as="geometry">
+        <mxCell id="As-TOEln8H3yBprOKTnp-35" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="As-TOEln8H3yBprOKTnp-34">
+          <mxGeometry x="-0.4754" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-7" target="As-TOEln8H3yBprOKTnp-15">
+        <mxCell id="As-TOEln8H3yBprOKTnp-37" value="从实验资源模块中删除该资源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="533" width="110" height="51.88" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-39" value="没有执行删除操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="533" width="110" height="51.88" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-40" target="As-TOEln8H3yBprOKTnp-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-17" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="As-TOEln8H3yBprOKTnp-16">
-          <mxGeometry x="0.24" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-40" value="点击编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="441" y="299" width="110" height="51.88" as="geometry" />
+        </mxCell>
+        <mxCell id="As-TOEln8H3yBprOKTnp-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.508;exitY=0.244;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="As-TOEln8H3yBprOKTnp-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="493.9200000000001" y="253.0250000000001" as="sourcePoint" />
+            <mxPoint x="238" y="309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-7" value="是否确认" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="140" height="100" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-42" value="编辑里面的资源信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="441" y="400" width="110" height="51.88" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-8" target="As-TOEln8H3yBprOKTnp-12">
+        <mxCell id="As-TOEln8H3yBprOKTnp-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-44" target="As-TOEln8H3yBprOKTnp-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-8" value="取消发布" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="160" height="60" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-44" value="点击搜索按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="299" width="110" height="51.88" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-12" value="返回实验课程页面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="475.71" y="560" width="128.57" height="60" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="634" y="252" as="sourcePoint" />
+            <mxPoint x="633" y="299" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-15" target="As-TOEln8H3yBprOKTnp-18">
+        <mxCell id="As-TOEln8H3yBprOKTnp-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-46" target="As-TOEln8H3yBprOKTnp-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-15" value="确认发布实验" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="160" height="60" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-46" value="去数据库查询信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="110" height="51.88" as="geometry" />
         </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As-TOEln8H3yBprOKTnp-18" target="As-TOEln8H3yBprOKTnp-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-18" value="与数据库交汇，将实验课程信息处理返回给学生实验模块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275.71" y="670" width="128.57" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="As-TOEln8H3yBprOKTnp-20" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="760" width="140" height="60" as="geometry" />
+        <mxCell id="As-TOEln8H3yBprOKTnp-48" value="返回数据给前端" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="521.88" width="110" height="51.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
